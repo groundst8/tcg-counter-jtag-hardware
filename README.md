@@ -13,3 +13,8 @@ Want to be able to program tcg-counter with MSP-FET but want level translation J
 ![Screenshot 2024-11-25 at 8 47 31 PM](https://github.com/user-attachments/assets/aa277a38-1f16-40d6-a896-e80834d5c7cf)
 [Low Voltage Translation For SPI, UART, RGMII, JTAG
 Interfaces](https://www.ti.com/lit/an/scea065b/scea065b.pdf)
+
+![Screenshot 2024-11-26 at 3 01 13 PM](https://github.com/user-attachments/assets/3ce24a4f-4d93-4d40-9882-c1ec327c1f64)
+
+[MSP Debuggers User's Guide](https://www.ti.com/lit/ug/slau647o/slau647o.pdf)
+
