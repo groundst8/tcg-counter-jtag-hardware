@@ -18,3 +18,11 @@ Interfaces](https://www.ti.com/lit/an/scea065b/scea065b.pdf)
 
 [MSP Debuggers User's Guide](https://www.ti.com/lit/ug/slau647o/slau647o.pdf)
 
+## Modes
+
+### Passive Operation
+When no JTAG debug probe is attached, the device is passively powered by the RF field. VDDSW will provide power harvested and regulated from the RF field to the RF430FRL152H and TCAL9539. VDDB is connected to VDDSW but is just an open circuit as no debug probe is present.
+
+### Debug / Programming
+When the MSP-FET debug probe is attached (after level translation), the device is powered by FET_VCC 3.3V stepped down to 1.5V provided by the probe and off board voltage regulator. FET_VCC is connected to VDDB and VDDSW providing power to the RF430FRL152H and TCAL9539. It should be possible to measure power consummption using EnergyTrace, it will just have some additional quiescent current from the voltage regulator and level translators that will not be present when powered passively as those components are offboard and only in circuit when the debug probe is attached.
+
