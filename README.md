@@ -18,6 +18,10 @@ Interfaces](https://www.ti.com/lit/an/scea065b/scea065b.pdf)
 
 [MSP Debuggers User's Guide](https://www.ti.com/lit/ug/slau647o/slau647o.pdf)
 
+![Screenshot 2024-12-30 at 10 54 57 AM](https://github.com/user-attachments/assets/60eb60b1-2ce3-4e32-a32c-67e73c51a863)
+
+[SN74AXC4T774 Evaluation Module User Guide](https://www.ti.com/lit/ug/sceu015/sceu015.pdf)
+
 ## Modes
 
 ### Passive Operation
