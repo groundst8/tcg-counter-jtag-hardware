@@ -22,6 +22,11 @@ Interfaces](https://www.ti.com/lit/an/scea065b/scea065b.pdf)
 
 [SN74AXC4T774 Evaluation Module User Guide](https://www.ti.com/lit/ug/sceu015/sceu015.pdf)
 
+![Screenshot 2025-01-20 at 12 08 34 PM](https://github.com/user-attachments/assets/848fdd0d-9e4f-47ec-8b7a-3a13d67b152f)
+
+[Tag-Connect TC2050-IDC-430-FP](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-430-NL_Datasheet_9.pdf)
+
+
 ## Modes
 
 ### Passive Operation
