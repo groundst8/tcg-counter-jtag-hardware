@@ -26,6 +26,16 @@ Interfaces](https://www.ti.com/lit/an/scea065b/scea065b.pdf)
 
 [Tag-Connect TC2050-IDC-430-FP](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2050-IDC-430-NL_Datasheet_9.pdf)
 
+## Debugging
+
+![DS0014](https://github.com/user-attachments/assets/1d28b278-2cbf-44ab-912e-0563195944aa)
+
+TCLK & TDO MSP-FET 3.3V
+
+![tdi](https://github.com/user-attachments/assets/241c0b57-2091-4e27-85a2-7853151470a7)
+
+TCLK & TDI MSP-FET 3.3V
+
 
 ## Modes
 
