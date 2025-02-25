@@ -36,6 +36,11 @@ TCLK & TDO MSP-FET 3.3V
 
 TCLK & TDI MSP-FET 3.3V
 
+## EnergyTrace
+
+Power consumption measured with energy trace when the RF430FRL152H is in LPM0 was roughly 0.69mW. At 2.9V this is 229.7 uA. The MSP-FET FET_VCC supply is powering a TPS72215 1.5V LDO that supplies the RF430FRL152H. Two SN74AXC4T774 chips are also supplied to perform voltage level translation for JTAG between the RF430FRL152H and MSP-FET. The baseline power measurement includes all of these loads and must be accounted for when measuring application specific power consumption.
+
+![power](https://github.com/user-attachments/assets/9c3e63be-e39e-4d79-b6ec-7177775aacb1)
 
 ## Modes
 
